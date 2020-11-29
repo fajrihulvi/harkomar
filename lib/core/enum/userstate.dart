@@ -1,0 +1,1 @@
+enum UserState { Auth, NotAuth }
